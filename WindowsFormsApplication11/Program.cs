@@ -18,6 +18,8 @@ namespace WindowsFormsApplication11
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
             Console.WriteLine("Dimon");
+
+            Console.WriteLine("Artem");
         }
     }
 }
