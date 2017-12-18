@@ -20,6 +20,8 @@ namespace WindowsFormsApplication11
             Console.WriteLine("Dimon");
             Console.WriteLine("Maxim");
             Console.WriteLine("VlaDDOS");
+            Console.WriteLine("Artem");
+            Console.WriteLine("Ivan");
         }
     }
 }
