@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace WindowsFormsApplication11
@@ -21,6 +18,7 @@ namespace WindowsFormsApplication11
             Console.WriteLine("Maxim");
             Console.WriteLine("VlaDDOS");
             Console.WriteLine("Artem");
+            Console.WriteLine("Hello from Vlad branch!");
         }
     }
 }
