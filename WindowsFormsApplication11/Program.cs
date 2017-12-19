@@ -26,9 +26,10 @@ namespace WindowsFormsApplication11
         }
         static void function()
         {
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i < 5; i++)
             {
                 Console.WriteLine("Own Branch changes");
+                Console.WriteLine("Update change");
             }
            
         }
