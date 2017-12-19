@@ -24,5 +24,13 @@ namespace WindowsFormsApplication11
             Console.WriteLine("Ivan");
             Console.WriteLine("Mykhailov");
         }
+        static void function()
+        {
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine("Own Branch changes");
+            }
+           
+        }
     }
 }
