@@ -14,7 +14,7 @@ namespace WindowsFormsApplication11
         [STAThread]
         static void Main()
         {
-            Application.EnableVisualStyles();
+         /*   Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
             Console.WriteLine("Dimon");
@@ -29,7 +29,7 @@ namespace WindowsFormsApplication11
             for (int i = 0; i < 10; i++)
             {
                 Console.WriteLine("Own Branch changes");
-            }
+            }*/
            
         }
     }
