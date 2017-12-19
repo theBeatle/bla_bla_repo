@@ -17,11 +17,11 @@ namespace WindowsFormsApplication11
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
-            Console.WriteLine("Dimon");
-            Console.WriteLine("Maxim");
-            Console.WriteLine("VlaDDOS");
-            Console.WriteLine("Artem");
-            Console.WriteLine("Ivan");
+            //Console.WriteLine("Dimon");
+            //Console.WriteLine("Maxim");
+           // Console.WriteLine("VlaDDOS");
+           // Console.WriteLine("Artem");
+           // Console.WriteLine("Ivan");
         }
     }
 }
