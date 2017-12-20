@@ -38,9 +38,9 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 72F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label1.Location = new System.Drawing.Point(163, 70);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(502, 108);
+            this.label1.Size = new System.Drawing.Size(463, 108);
             this.label1.TabIndex = 0;
-            this.label1.Text = "NotYulia(((";
+            this.label1.Text = "New label";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // button1
